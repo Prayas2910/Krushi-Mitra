@@ -1,0 +1,8 @@
+{
+  "name": "Krushi-Mitra",
+  "description": "A simple and powerful companion for Indian farmers. AI crop disease detection, live mandi rates, and expert advice in your local language.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
